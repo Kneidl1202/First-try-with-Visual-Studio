@@ -13,6 +13,7 @@ namespace git_versuch
             int c = 10 + 20;
             Console.WriteLine("Hello World!");
             Console.ReadKey();
+            Console.WriteLine("Gio was here...");
         }
     }
 }
