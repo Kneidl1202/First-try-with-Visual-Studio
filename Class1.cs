@@ -10,6 +10,7 @@ namespace git_versuch
     {
         static void Main(string[] args)
         {
+            int c = 10 + 20;
             Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
