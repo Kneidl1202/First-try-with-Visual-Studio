@@ -14,6 +14,7 @@ namespace git_versuch
             Console.WriteLine("Hello World!");
             Console.WriteLine(c);
             Console.ReadKey();
+            Console.WriteLine("Gio was here...");
         }
     }
 }
